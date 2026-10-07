@@ -1,0 +1,7 @@
+{
+    "modID": "EventSL",
+    "displayName": "度假SL与回退 Vacation S/L",
+    "description": "实现度假界面与事件中的 SL 功能：\n1. 【头像下方专属SL按钮】：在人物头像下方显示贴合原版画风的【整体 SL】按钮，宽度与头像完全一致。度假与事件中点击即可无二次确认直接一键SL重置整轮度假，无需手动退回主界面；\n2. 【整轮度假SL】：随时点击【整体 SL】可直接回退到刚进入该轮度假时的起点，重置所有已进行事件与天数；\n3. 【退出即重置（可选）】：可在 Mod 配置中开启返回主界面自动重置度假。\nImplements Vacation Save & Load with instant one-click SL button beneath pilot portrait.",
+    "version": "1.4.1",
+    "author": ""
+}
